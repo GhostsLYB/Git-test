@@ -1,1 +1,2 @@
 ghost changed 1
+ghost changed 2
